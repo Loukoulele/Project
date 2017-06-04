@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<liste-images>
+<image categorie="art_abstrait">
+<fichier>Abstract_Wallpaper1.jpg</fichier>
+<legende>Art abstrait 1</legende>
+</image>
+<image categorie="art_abstrait">
+<fichier>AbstractBlue.jpg</fichier>
+<legende>Art abstrait 2</legende>
+</image>
+<image categorie="villes">
+<fichier>losangeles.jpg</fichier>
+<legende>Un concept à part ! Une légende en soi. Les gens détestent et aiment en même temps ...</legende>
+</image>
+<image categorie="villes">
+<fichier>newyork.jpg</fichier>
+<legende>La ville la plus connue du monde.</legende>
+</image>
+<image categorie="villes">
+<fichier>paris.jpg</fichier>
+<legende>La ville la plus connue (avec New-York), la plus aimée, la plus visitée et la plus belle du monde.</legende>
+</image>
+<image categorie="paysages_deserts">
+<fichier>Sahara.jpg</fichier>
+<legende>Le plus grand désert du monde.</legende>
+</image>
+<image categorie="paysages_deserts">
+<fichier>monument_valley.jpg</fichier>
+<legende>Lieu sacré. Terre des Navajos.</legende>
+</image>
+</liste-images>

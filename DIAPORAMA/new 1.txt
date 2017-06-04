@@ -1,0 +1,12 @@
+JS
+appelAjax
+traitement du resultat=> pour chaque image on crée un objet Image (js)
+on met l'objet image dans la liste finale
+créer une image(dom), on la place dans le site
+traiter le clic pour obtenir la grande taille
+
+
+
+HTML
+	container(absolute) pour la grande taille
+	container pour les vignettes
